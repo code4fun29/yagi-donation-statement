@@ -1,0 +1,13 @@
+{
+  "name": "yagi-donation-statement",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "nvquynh29"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
